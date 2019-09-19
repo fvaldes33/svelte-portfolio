@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "franco-svelte",
+  "description": "Portfolio site using svelte",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
